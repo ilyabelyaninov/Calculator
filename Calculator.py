@@ -1,4 +1,3 @@
-print("Stable Version")
 from num2words import *
 des = ['плюс', 'минус', 'умножить', 'разделить', 'на', 'остаток']
 ch = []
